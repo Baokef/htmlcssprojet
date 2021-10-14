@@ -32,3 +32,8 @@ h3 {
   color: var(--color-heading);
 }
 /*links*/
+@media screen and (max-width: 990px) {
+  h1 {
+    font-size: 3.8rem;
+  }
+}
